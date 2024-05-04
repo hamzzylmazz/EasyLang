@@ -1,0 +1,20 @@
+/* Dashboard.module.css */
+
+.container {
+  height: 100vh;
+  margin: 3rem;
+}
+.dashboardContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.breadcrumb {
+  font-size: 1rem;
+  color: #333;
+}
+
+.userCard {
+  margin: 1.5rem 0;
+}
